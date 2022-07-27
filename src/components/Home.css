@@ -1,0 +1,68 @@
+body{
+    color:lightcyan;
+}
+.Card{
+    box-shadow: 1px 4px 8px 1px rgb(254, 254, 254);
+    border-radius: 50px;
+    height: 100px;
+    width: 100px;
+    margin: auto;
+}
+.Card:hover{
+    box-sizing: content-box;
+}
+.card-img:hover{
+    box-shadow: 1px 4px 8px 1px rgb(9, 200, 238);
+    border-radius: 50px;
+}
+.head-container{
+    display: flex;
+    justify-content:center;
+    
+}
+.Card-container{
+    display: flex;
+
+}
+.card-info{
+    display: flex;
+    justify-content:center;
+}
+
+b{
+    margin: 3px;
+    padding: 3px;
+    
+}
+.img-container{
+    display:flex;
+    justify-content:center;
+    height: 300px;
+}
+.techStack{
+    margin-bottom:100px;
+}
+hr{
+    border-radius: 100px;
+}
+.footer-body{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    margin:10px;
+
+}
+.footer-links{
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    margin: 20px;
+    text-decoration:none;
+    color:white;
+    width:60px;
+    font-size: large;
+}
+.footer-links:hover{
+    font-weight:bold;
+    font-size:larger;
+}
