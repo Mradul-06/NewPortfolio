@@ -18,7 +18,7 @@ const Home = () => {
                 <h2> Mradul Agrawal</h2>
             </div>
             <div className='img-container'>
-                <img src={programmerlogo} alt="image goes here"></img>
+                <img src={programmerlogo} alt=""></img>
             </div>
             <hr></hr>
             <div className='techStack'>
