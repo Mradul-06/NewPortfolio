@@ -11,10 +11,10 @@ body{
 .Card:hover{
     box-sizing: content-box;
 }
-.card-img:hover{
+/* .card-img:hover{
     box-shadow: 1px 4px 8px 1px rgb(9, 200, 238);
     border-radius: 50px;
-}
+} */
 .head-container{
     display: flex;
     justify-content:center;
