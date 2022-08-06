@@ -82,17 +82,16 @@ const Projects = () => {
       </div>
       <div className="card">
         <div className="card-heading">
-          <h4>Emoji Interpretor</h4>
+          <h4>YT Video Player</h4>
         </div>
         <hr></hr>
         <div className="card-content">
-        <p> This WebApp allows you to Search Meaning of Emoji's.
-          It is Created In React</p>
+        <p> Browse Youtube Videos</p>
         </div> 
         <hr></hr>
         <div className="card-links">
-            <a className="project-link" href="https://dazzling-galileo-6a975f.netlify.app/">Visit</a><br></br>
-            <a className="source-link" href="https://github.com/Mradul-06/emojiInterpretor">Github</a>
+            <a className="project-link" href="https://glowing-starlight-6ec35c.netlify.app/">Visit</a><br></br>
+            <a className="source-link" href="https://github.com/Mradul-06/YT-Video-Player">Github</a>
         </div>     
       </div>
     </div>
