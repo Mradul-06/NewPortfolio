@@ -1,20 +1,23 @@
 .head-container{
     display: flex;
     justify-content:center;
+    text-decoration: underline;
     
 }
 
 .card-holder{
     display: flex;
-    justify-content:space-between;
+    flex-wrap: wrap;
+    justify-content:;
 }
 
-.card{
+.card{  
     box-shadow: 1px 4px 8px 1px rgb(165, 158, 56);
     border-radius: 5px;
     height: 250px;
     width: 200px;
-    margin-left:20px;
+    margin-left:80px;
+    margin-bottom:50px
 }
 .card-heading{
     display: flex;
@@ -25,6 +28,7 @@
 
 .card-content{
     margin-left:10px;
+    height:80px;    
     padding:0.5px;
 }
 .project-link{

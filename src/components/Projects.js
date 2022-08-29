@@ -136,6 +136,20 @@ const Projects = () => {
             <a className="source-link" href="https://github.com/Mradul-06/Fruit-Quiz-CLI">Github</a>
         </div>     
       </div>
+      <div className="card">
+        <div className="card-heading">
+          <h4>Do You Know Me Quiz</h4>
+        </div>
+        <hr></hr>
+        <div className="card-content">
+        <p> This is a CLI quiz</p>
+        </div> 
+        <hr></hr>
+        <div className="card-links">
+            <a className="project-link" href="https://replit.com/@MradulAgrawal/Do-You-Know-Me-quiz?v=1">Visit</a><br></br>
+            <a className="source-link" href="https://github.com/Mradul-06/Do-You-Know-Me-Quiz">Github</a>
+        </div>     
+      </div>
     </div>
     </section>
   )
