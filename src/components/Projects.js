@@ -94,6 +94,48 @@ const Projects = () => {
             <a className="source-link" href="https://github.com/Mradul-06/YT-Video-Player">Github</a>
         </div>     
       </div>
+      <div className="card">
+        <div className="card-heading">
+          <h4>Yoda Translate</h4>
+        </div>
+        <hr></hr>
+        <div className="card-content">
+        <p> Use this tool to translate english in yoda language</p>
+        </div> 
+        <hr></hr>
+        <div className="card-links">
+            <a className="project-link" href="https://thirsty-perlman-0cc4b1.netlify.app">Visit</a><br></br>
+            <a className="source-link" href="https://github.com/Mradul-06/translation_app">Github</a>
+        </div>     
+      </div>
+      <div className="card">
+        <div className="card-heading">
+          <h4>Food Recommendation</h4>
+        </div>
+        <hr></hr>
+        <div className="card-content">
+        <p> Use this app to find food recommendations according to your region or choice</p>
+        </div> 
+        <hr></hr>
+        <div className="card-links">
+            <a className="project-link" href="https://priceless-clarke-cf5f19.netlify.app/">Visit</a><br></br>
+            <a className="source-link" href="https://github.com/Mradul-06/food-app">Github</a>
+        </div>     
+      </div>
+      <div className="card">
+        <div className="card-heading">
+          <h4>Fruits Quiz</h4>
+        </div>
+        <hr></hr>
+        <div className="card-content">
+        <p> This is a CLI quiz to check your Knowledge about fruits</p>
+        </div> 
+        <hr></hr>
+        <div className="card-links">
+            <a className="project-link" href="https://replit.com/@MradulAgrawal/Fruit-Quiz?v=1">Visit</a><br></br>
+            <a className="source-link" href="https://github.com/Mradul-06/Fruit-Quiz-CLI">Github</a>
+        </div>     
+      </div>
     </div>
     </section>
   )
