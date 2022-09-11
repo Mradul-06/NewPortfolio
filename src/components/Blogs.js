@@ -1,6 +1,6 @@
 import React from 'react'
 import './Blogs.css'
-import {BrowserRouter as Router,Route,Routes,Link} from 'react-router-dom'
+import {Link} from 'react-router-dom'
 
 const Blogs = () => {
   return (
