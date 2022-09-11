@@ -3,6 +3,7 @@ import {BrowserRouter as Router,Route,Routes,Link} from 'react-router-dom'
 import Home from './components/Home'
 import Projects from './components/Projects'
 import Blogs from './components/Blogs'
+import Dummy from './components/Dummy'
 import './App.css'
 
 const App = () => {
@@ -30,6 +31,7 @@ const App = () => {
             <Route path="/" element={<Home/>}></Route>
             <Route path="/Projects" element={<Projects/>}></Route>
             <Route path="/Blogs" element={<Blogs/>}></Route>
+            <Route path="dummy" element={<Dummy/>}></Route>
         </Routes>
     </Router>  
         )
