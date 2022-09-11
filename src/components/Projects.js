@@ -9,7 +9,7 @@ const Projects = () => {
         <h2> NeoG - Projects</h2>
       </div>
     <div className="card-holder">
------------------------------------
+{/* ----------------------------------- */}
     <div className="card">
         <div className="card-heading">
           <h4>Do You Know Me Quiz</h4>
@@ -24,7 +24,7 @@ const Projects = () => {
             <a className="source-link" href="https://github.com/Mradul-06/Do-You-Know-Me-Quiz">Github</a>
         </div>     
       </div>
---------------------------------------
+{/* -------------------------------------- */}
       <div className="card">
         <div className="card-heading">
           <h4>Fruits Quiz</h4>
@@ -39,7 +39,7 @@ const Projects = () => {
             <a className="source-link" href="https://github.com/Mradul-06/Fruit-Quiz-CLI">Github</a>
         </div>     
       </div>
----------------------------------------
+{/* --------------------------------------- */}
       <div className="card">
         <div className="card-heading">
           <h4>Minion Language Translator</h4>
@@ -54,7 +54,7 @@ const Projects = () => {
             <a className="source-link" href="https://github.com/Mradul-06/Banana-Speak">Github</a>
         </div>     
       </div>
----------------------------------------
+{/* --------------------------------------- */}
 <div className="card">
         <div className="card-heading">
           <h4>Yoda Translate</h4>
@@ -69,7 +69,7 @@ const Projects = () => {
             <a className="source-link" href="https://github.com/Mradul-06/translation_app">Github</a>
         </div>     
       </div>
--------------------------------------------------
+{/* ------------------------------------------------- */}
       <div className="card">
         <div className="card-heading">
           <h4>Emoji Interpretor</h4>
@@ -85,7 +85,7 @@ const Projects = () => {
             <a className="source-link" href="https://github.com/Mradul-06/emojiInterpretor">Github</a>
         </div>     
       </div>
------------------------------------------
+{/* ----------------------------------------- */}
       <div className="card">
         <div className="card-heading">
           <h4>Food Recommendation</h4>
@@ -100,7 +100,7 @@ const Projects = () => {
             <a className="source-link" href="https://github.com/Mradul-06/food-app">Github</a>
         </div>     
       </div>
----------------------------------------------
+{/* --------------------------------------------- */}
 
 
 <div className="card">
@@ -117,7 +117,7 @@ const Projects = () => {
             <a className="source-link" href="https://github.com/Mradul-06/cash-register-manager">Github</a>
         </div>     
       </div>
---------------------------------------------
+{/* -------------------------------------------- */}
 <div className="card">
         <div className="card-heading">
           <h4>IS Your Birthday Lucky</h4>
@@ -132,7 +132,7 @@ const Projects = () => {
             <a className="source-link" href="https://github.com/Mradul-06/Is-Your-Birtday-Lucky">Github</a>
         </div>     
       </div>
------------------------------------------------
+{/* ----------------------------------------------- */}
       <div className="card">
         <div className="card-heading">
           <h4>Fun-With-Triangles</h4>
@@ -147,7 +147,7 @@ const Projects = () => {
             <a className="source-link" href="https://github.com/Mradul-06/Fun-With-triangles">Github</a>
         </div>     
       </div>
--------------------------------------------
+{/* ------------------------------------------- */}
 <div className="card">
         <div className="card-heading">
           <h4>Pallindrome Birthday</h4>
@@ -162,7 +162,7 @@ const Projects = () => {
             <a className="source-link" href="https://github.com/Mradul-06/pallindrome-birthday">Github</a>
         </div>     
       </div>
-------------------------------------------------
+{/* ------------------------------------------------ */}
       <div className="card">
         <div className="card-heading">
           <h4>Profit Loss Calculator</h4>
@@ -177,7 +177,7 @@ const Projects = () => {
             <a className="source-link" href="https://github.com/Mradul-06/ProfitAndLossCalculator">Github</a>
         </div>     
       </div>
---------------------------------------------------
+{/* -------------------------------------------------- */}
       <div className="card">
         <div className="card-heading">
           <h4>YT Video Player</h4>
@@ -192,7 +192,7 @@ const Projects = () => {
             <a className="source-link" href="https://github.com/Mradul-06/YT-Video-Player">Github</a>
         </div>     
       </div>
-----------------------------------------------------
+{/* ---------------------------------------------------- */}
 
 
 
