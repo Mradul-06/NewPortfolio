@@ -150,6 +150,34 @@ const Projects = () => {
             <a className="source-link" href="https://github.com/Mradul-06/Do-You-Know-Me-Quiz">Github</a>
         </div>     
       </div>
+      <div className="card">
+        <div className="card-heading">
+          <h4>Cash Register Manager</h4>
+        </div>
+        <hr></hr>
+        <div className="card-content">
+        <p> USe this at a cashier counter</p>
+        </div> 
+        <hr></hr>
+        <div className="card-links">
+            <a className="project-link" href="https://graceful-monstera-5e952d.netlify.app/">Visit</a><br></br>
+            <a className="source-link" href="https://github.com/Mradul-06/cash-register-manager">Github</a>
+        </div>     
+      </div>
+      <div className="card">
+        <div className="card-heading">
+          <h4>Pallindrome Birthday</h4>
+        </div>
+        <hr></hr>
+        <div className="card-content">
+        <p> Is your birthday a Pallindrome.Let's Check</p>
+        </div> 
+        <hr></hr>
+        <div className="card-links">
+            <a className="project-link" href="https://glowing-kelpie-8e9dc5.netlify.app/">Visit</a><br></br>
+            <a className="source-link" href="https://github.com/Mradul-06/pallindrome-birthday">Github</a>
+        </div>     
+      </div>
     </div>
     </section>
   )
